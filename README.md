@@ -14,13 +14,19 @@
 Connects to the spotify sdk player and using webscrappers looks for current song's lyrics.
 <br/>
 Technology: React.js, Electron and Puppeteer
-[Video demo](https://user-images.githubusercontent.com/54106114/158079678-cb8cd8f8-ec15-4062-b207-23d48ab58940.mp4)
+<br/>
+![spotify-lyrics](https://user-images.githubusercontent.com/54106114/158080674-480d3809-0b76-484a-9992-77253c6942fa.jpg)
+<br/>
+![Video demo](https://user-images.githubusercontent.com/54106114/158079678-cb8cd8f8-ec15-4062-b207-23d48ab58940.mp4)
 
 ### Game Info
-Unifies games average time to beat with critics score into one place.
+Unifies games average time to beat with critics score into one place with filters for an easy access.
 <br/>
 Technology: React.js,Typescript, AWS and Puppeteer
-[Video demo](https://user-images.githubusercontent.com/54106114/158079926-968f6942-ed23-4094-b8a0-fa76ddf75448.mp4)
+<br/>
+![gane](https://user-images.githubusercontent.com/54106114/158080746-00dfe92a-ad9f-4ffc-a246-6de62a5eb051.gif)
+<br/>
+![Video demo](https://user-images.githubusercontent.com/54106114/158079926-968f6942-ed23-4094-b8a0-fa76ddf75448.mp4)
 
 ## Featured blog posts
 
